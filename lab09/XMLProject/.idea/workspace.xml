@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b3de4da-4f67-408c-9ae2-364a13ad671e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/XMLParsers/src/main/java/pwr/edu/pl/parser/DomParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/XMLParsers/src/main/java/pwr/edu/pl/parser/DomParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLParsers/src/main/java/pwr/edu/pl/parser/JAXBParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/XMLParsers/src/main/java/pwr/edu/pl/parser/JAXBParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLParsers/src/main/java/pwr/edu/pl/parser/XSLTParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/XMLParsers/src/main/java/pwr/edu/pl/parser/XSLTParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLParsers/src/main/java/pwr/edu/pl/parser/XmlParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/XMLParsers/src/main/java/pwr/edu/pl/parser/XmlParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XMLParsers/src/main/java/pwr/edu/pl/parser/XmlSAXParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/XMLParsers/src/main/java/pwr/edu/pl/parser/XmlSAXParser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QQ5DDO97GQruiJy4GMiSojjgsL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/home/mniewczas/Desktop/matv2/my_portfolio-main/Java/Lab8/DiscreteConvolutionFunction",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WindowWithJavaFx/src/main/java" />
+      <recent name="$PROJECT_DIR$/WindowWithJavaFx" />
+      <recent name="$PROJECT_DIR$/WindowWithJavaFx/src/main/resources" />
+      <recent name="$PROJECT_DIR$/WindowWithJavaFx/src/main/java/window" />
+      <recent name="$PROJECT_DIR$/XMLParsers/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="JAXBParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pwr.edu.pl.parser.JAXBParser" />
+      <module name="XMLParsers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pwr.edu.pl.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="pwr.edu.pl.window.Main" />
+      <module name="WindowWithJavaFx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XSLTParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pwr.edu.pl.parser.XSLTParser" />
+      <module name="XMLParsers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pwr.edu.pl.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.XSLTParser" />
+        <item itemvalue="Application.JAXBParser" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b3de4da-4f67-408c-9ae2-364a13ad671e" name="Changes" comment="" />
+      <created>1685272845379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685272845379</updated>
+      <workItem from="1685272847927" duration="13492000" />
+      <workItem from="1685292549422" duration="7061000" />
+      <workItem from="1685355048064" duration="34627000" />
+      <workItem from="1685611129403" duration="3549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
