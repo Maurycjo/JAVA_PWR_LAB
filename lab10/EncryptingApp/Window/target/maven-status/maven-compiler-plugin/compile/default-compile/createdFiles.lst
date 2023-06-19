@@ -1,0 +1,5 @@
+pl/edu/pwr/window/MainWindow.class
+pl/edu/pwr/window/FileWalker.class
+module-info.class
+pl/edu/pwr/controller/Controller.class
+pl/edu/pwr/window/Main.class
